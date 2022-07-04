@@ -26,17 +26,22 @@ p#Objective
 }
 
 body {
+    
    background-image: url("linkedin.jpg");
     /* height: 100%;  */
 /* background-position: center; */
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 0%;
+    padding-bottom: 0%;
  
 }
 
 .image{
-    height: 30vh;
+    padding-left: 7%;
+    padding-top: 10%;
+    height: 40vh;
     width: 20vw;
 }
 
